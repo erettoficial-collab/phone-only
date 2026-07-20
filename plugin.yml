@@ -1,6 +1,0 @@
-name: PhoneOnly
-version: 1.0.0
-main: erettn\PhoneOnly\Main
-api: 5.0.0
-author: Erett
-description: Filtro nativo para permitir solo conexiones de teléfonos celulares, bloqueando PC, consolas y tablets.
